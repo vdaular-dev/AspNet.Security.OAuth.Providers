@@ -61,6 +61,7 @@ covered by the section above.
 | Line | _Optional_ | [Documentation](line.md "Line provider documentation") |
 | Linear | _Optional_ | [Documentation](linear.md "Linear provider documentation") |
 | LinkedIn | _Optional_ | [Documentation](linkedin.md "LinkedIn provider documentation") |
+| Miro | _Optional_ | [Documentation](miro.md "Miro provider documentation") |
 | Odnoklassniki | _Optional_ | [Documentation](odnoklassniki.md "Odnoklassniki provider documentation") |
 | Okta | **Required** | [Documentation](okta.md "Okta provider documentation") |
 | Patreon | _Optional_ | [Documentation](patreon.md "Patreon provider documentation") |
