@@ -122,7 +122,7 @@ This project is licensed under the **Apache License**. This means that you can u
 
 ## Migrating to OpenIddict
 
-**The OpenIddict client and its 75+ web providers have significant advantages** over the
+**The OpenIddict client and its 100+ web providers have significant advantages** over the
 simpler OAuth 2.0-only authentication handler that is used by the aspnet-contrib providers:
 
 * **OpenIddict fully supports OpenID Connect**, which allows enforcing additional security checks for providers that implement it.
